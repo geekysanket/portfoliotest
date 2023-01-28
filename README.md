@@ -1,2 +1,2 @@
 ﻿# portfoliotest
-With simple frontend and javascrit functionalites with responsive scalable designs.
+With simple frontend and javascript functionalites with responsive scalable designs.
